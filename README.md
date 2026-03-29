@@ -1,1 +1,1 @@
-# Educational_Project_1
+# Educational Project 1
